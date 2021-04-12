@@ -1,11 +1,13 @@
 # FoodDelivery
 
 
-## Group:
-Antonio Garcia (Individual)
+
 
 
 ## Introduction: 
+###### Group:
+Antonio Garcia (Individual)
+
 This project's purpose is to create a rating system in order to show off a food delivery service's effectiveness in its drivers and the restaurants available.
 
 ##  Description:
